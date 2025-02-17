@@ -1,4 +1,12 @@
 {
-  "user1": "pw1",
-  "user2": "pw2"
+  "users": [
+    {
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "username": "user2",
+      "password": "password2"
+    }
+  ]
 }
